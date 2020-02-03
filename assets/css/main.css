@@ -2378,6 +2378,11 @@ input, select, textarea {
 			display: block;
 		}
 
+		.image2 img {
+			border-radius: 0px;
+			display: block;
+		}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
